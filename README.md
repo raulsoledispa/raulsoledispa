@@ -10,6 +10,6 @@ I'm a Software Engineer who is passionate about designing and developing Web API
 - ⚡ Fun fact: I still love Java.
 
 ## How to reach me 🌎
-- Linkedin
-- Hashnode
-- Twitter
+- [Linkedin](https://www.linkedin.com/in/soledisparaul/)
+- [Hashnode](https://hashnode.com/@raulsoledispa)
+- [Twitter](https://twitter.com/raul_soledispa)
